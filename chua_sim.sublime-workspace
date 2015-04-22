@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"activity	statement"
+			],
+			[
+				"C",
+				"CrawlSpider"
+			],
+			[
+				"uid",
+				"uid_high"
+			],
+			[
+				"Con",
+				"Config"
+			],
+			[
+				"Config",
+				"ConfigParser"
+			],
+			[
+				"Confi",
+				"ConfigParser	import"
+			],
+			[
+				"class",
+				"classmethod	class"
+			],
+			[
+				"back",
+				"back_idx"
+			],
+			[
+				"front",
+				"front"
+			],
+			[
+				"center",
+				"center_idx"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"del",
+				"del_t"
+			],
+			[
+				"cur",
+				"cur_second"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Make",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Make",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				":$",
+				":$ - EOF"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/MaiWorking/Documents/BitBucket/chua_simulation"
+	],
+	"file_history":
+	[
+		"/C/Users/MaiWorking/Documents/BitBucket/chua_simulation/output.csv",
+		"/C/Users/MaiWorking/Documents/gitignore_global.txt",
+		"/C/Users/MaiWorking/Documents/BitBucket/os_project.sublime-project",
+		"/C/Users/MaiWorking/AppData/Roaming/Sublime Text 3/Packages/User/os.sublime-build",
+		"/C/Users/MaiWorking/Downloads/test.csh",
+		"/C/Users/MaiWorking/Desktop/VERDET/Data/sigma_empty.csv",
+		"/C/Users/MaiWorking/Desktop/VERDET/Data/sigma_empty1.csv",
+		"/C/Users/MaiWorking/Desktop/VERDET/Data/sigma_empty2.csv",
+		"/C/Users/MaiWorking/Downloads/聖劍使5 繁體.txt",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/Csci4061/assignment 2 examples/4061_Project2-master/readme.txt",
+		"/C/Users/MaiWorking/Dropbox/Admission Receipt/UMN Departmental recept",
+		"/C/Users/MaiWorking/AppData/Local/Temp/Rar$DIa0.614/使用说明+下载地址.txt",
+		"/C/Users/MaiWorking/Downloads/readMe",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/algs/greedy_insertion.py",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/data/output/berlin52_greedy.sol",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/README",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/GT/hw1/run_experiments.py",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/data/tsp/kroA100.opt.tour",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/data/tsp/eil76.opt.tour",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/data/tsp/ch130.opt.tour",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/data/tsp/tsp225.opt.tour",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/data/tsp/ch150.opt.tour",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/time_cost.csv",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/tsp_eval.py",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/path_cost.csv",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/tsp/data/tsp/berlin52.opt.tour",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/umn_csci4511w_project3/graphics.py",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/GT/hw1/monitored_heapq.py",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/umn_csci4511w_project3/happy_poison.py",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/umn_csci4511w_project3/test.out",
+		"/C/Users/MaiWorking/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/MaiWorking/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/MaiWorking/Documents/GitHub/phys4041hw/hw5/plots.ipynb",
+		"/C/Users/MaiWorking/Documents/GitHub/indiegogo/indiegogo/pipelines.py",
+		"/C/Users/MaiWorking/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/csci4511w/umn_csci4511w_project3/.gitignore",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/AddressCounter.v",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/AudioClock.v",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/SigmaDeltaPWM.v",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/Audioplayer.v",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/FlashMemModules6Basic.v",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/audioclocksignal.v",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/audioplayer16bit.v",
+		"/C/Users/MaiWorking/Desktop/lab10/10.2/audioclocksignal.v",
+		"/C/Users/MaiWorking/Downloads/AudioClock.v",
+		"/C/Users/MaiWorking/Documents/GitHub/indiegogo/indiegogo/spiders/random_spider.py",
+		"/C/Users/MaiWorking/Documents/GitHub/indiegogo/indiegogo/settings.py",
+		"/C/Users/MaiWorking/Documents/GitHub/indiegogo/scrapy.cfg",
+		"/C/Users/MaiWorking/Documents/GitHub/indiegogo/indiegogo/items.py",
+		"/C/Users/MaiWorking/Desktop/lab10/10.4/audioplayer16bit.txt",
+		"/C/Users/MaiWorking/Documents/GitHub/indiegogo/indiegogo/config.py",
+		"/C/Users/MaiWorking/Documents/GitHub/phys4041hw/hw5/q2.cpp",
+		"/C/Users/MaiWorking/Documents/GitHub/phys4041hw/hw5/q1.cpp",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/phys4041/midterm1/q2_output.csv",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/phys4041/midterm1/README",
+		"/C/Users/MaiWorking/Downloads/kickstarterscrape06022012-summary.csv",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/GT/hw1/README",
+		"/C/Users/MaiWorking/Dropbox/GRE prep/voc.txt",
+		"/C/Users/MaiWorking/Dropbox/GRE prep/main vocab",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/GT/hw1/README.txt",
+		"/C/Users/MaiWorking/Dropbox/Walk-in driver road test",
+		"/C/Users/MaiWorking/Desktop/registry.txt",
+		"/C/Users/MaiWorking/Desktop/voc.txt",
+		"/C/Users/MaiWorking/Downloads/report (1).csv",
+		"/C/Users/MaiWorking/Downloads/report.csv",
+		"/C/Users/MaiWorking/Desktop/demo_readme.txt",
+		"/C/Users/MaiWorking/Desktop/Preliminary/RJB_citations.csv",
+		"/C/Users/MaiWorking/Desktop/Preliminary/RJB_cleaned_demo.csv",
+		"/C/Users/MaiWorking/Desktop/Preliminary/TAS_cleaned_demo.csv",
+		"/C/Users/MaiWorking/Desktop/temp.txt",
+		"/C/Users/MaiWorking/Desktop/Preliminary/TAS_zip_count.csv",
+		"/C/Users/MaiWorking/Desktop/Preliminary/RJB_zip_count.csv",
+		"/C/Users/MaiWorking/AppData/Local/Temp/Rar$DIa0.313/jeeus1001.csv",
+		"/C/Users/MaiWorking/Downloads/exest.csv",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/RJB_demo.csv",
+		"/C/Users/MaiWorking/Desktop/Preliminary/TLC_citations.csv",
+		"/C/Users/MaiWorking/Desktop/Preliminary/unclean_citations.csv",
+		"/C/Users/MaiWorking/Downloads/clean_citations.csv",
+		"/C/Users/MaiWorking/Desktop/Preliminary/ecode_citations.csv",
+		"/C/Users/MaiWorking/Desktop/Preliminary/clean_citations.csv",
+		"/C/Users/MaiWorking/Dropbox/GRE prep/comparitive vocabs.txt",
+		"/C/Users/MaiWorking/.ipython/profile_default/ipython_notebook_config.py",
+		"/C/Users/MaiWorking/Desktop/eq_classes_RJB.py",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Mapping/names.csv",
+		"/C/Users/MaiWorking/Desktop/set of labels.txt",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/demographics.csv",
+		"/C/Users/MaiWorking/Downloads/names.csv",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/citations.csv",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Mapping/test_names.csv",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/zipcode.csv",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/Output/TAS_result.csv",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/.hgignore",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/EC/TAS_EC.txt",
+		"/C/Users/MaiWorking/PycharmProjects/MasterMerge/EC/RJB_RC.txt",
+		"/C/Users/MaiWorking/Dropbox/Apps/Texpad/homework/current/gt_cx4242/hw2/bar.html",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/map_names.py",
+		"/C/Users/MaiWorking/transform.py",
+		"/C/Users/MaiWorking/testing_output.txt",
+		"/C/Users/MaiWorking/Desktop/transform.py",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si111topidx.csv",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si_neig.csv",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si111top.csv",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si111top.xyz",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si111bulk.csv",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si111bulk.dat",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si111bulk.xyz",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/rotate_output.py",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/rotated_Si(111)bulk.xyz",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/rotated_Si(111)_top_interface.xyz",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si(111)bulk.xyz",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si_neig.dat",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si_neig_cleaned.csv",
+		"/C/Users/MaiWorking/PycharmProjects/KMC/Input/Si_neighbor.txt",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Mapping/name_mapping_2014_06_03__22_52_02.json",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Logs/error_logs_2014_06_03__22_39_12.txt",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Mapping/name_mapping_2014_06_03__21_50_46.json",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Mapping/name_mapping_2014_06_03__21_47_11.json",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Mapping/name_mapping_2014_06_03__22_13_40.json",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Logs/error_logs_2014_06_03__21_47_11.txt",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Logs/error_logs_2014_06_03__21_35_41.txt",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Logs/file_logs_2014_06_03__21_35_41.txt",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Mapping/name_mapping_2014_06_03__21_28_43.json",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Logs/error_logs_2014_06_03__21_28_43.txt",
+		"/C/Users/MaiWorking/PycharmProjects/NameMapping/Logs/error_logs_2014_06_03__21_34_50.txt",
+		"/C/Users/MaiWorking/Desktop/CC/dist/Mapping/name_mapping_2014_06_03__10_45_38.json",
+		"/C/Users/MaiWorking/Desktop/CC/dist/Mapping/name_mapping_2014_06_03__11_31_47.json",
+		"/C/Users/MaiWorking/Desktop/CC/dist/Mapping/name_mapping_2014_06_03__11_18_56.json",
+		"/C/Users/MaiWorking/Desktop/CC/dist/Mapping/name_mapping_2014_06_03__11_18_01.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"time_cost",
+			"            //",
+			"caco",
+			"diss",
+			"salacious",
+			"condescend",
+			"indignant",
+			"relinquish",
+			"relinguish",
+			"ingrain",
+			"languish",
+			"rebuttal",
+			"mediocre",
+			"ennui",
+			"hasten",
+			"relish",
+			", ",
+			"matlib",
+			"mat",
+			"matlab",
+			"abound",
+			"abounding",
+			"Description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Descriptive"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 83.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chua_sim.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"umn_csci4511w_project3\\happy_poison.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
